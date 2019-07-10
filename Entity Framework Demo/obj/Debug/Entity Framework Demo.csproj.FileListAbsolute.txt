@@ -1,0 +1,41 @@
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\Entity Framework Demo.exe.config
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\Entity Framework Demo.exe
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\Entity Framework Demo.pdb
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\obj\Debug\Entity Framework Demo.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\obj\Debug\Entity Framework Demo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\obj\Debug\Entity Framework Demo.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\obj\Debug\Entity Framework Demo.exe
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\obj\Debug\Entity Framework Demo.pdb
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\obj\Debug\Entity_Framework_Demo.Migrations.InitialMigration.resources
+C:\Users\Gabriel\source\repos\Entity Framework Demo\Entity Framework Demo\obj\Debug\Entity Framework Demo.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\Entity Framework Demo.exe.config
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\Entity Framework Demo.exe
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\Entity Framework Demo.pdb
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\obj\Debug\Entity Framework Demo.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\obj\Debug\Entity_Framework_Demo.Migrations.InitialMigration.resources
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\obj\Debug\Entity Framework Demo.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\obj\Debug\Entity Framework Demo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\obj\Debug\Entity Framework Demo.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\obj\Debug\Entity Framework Demo.exe
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\obj\Debug\Entity Framework Demo.pdb
+C:\Users\Gabriel\Desktop\Projects\EntityFrameworkDemo\Entity Framework Demo\obj\Debug\Entity_Framework_Demo.Migrations.JustToBeSure.resources
